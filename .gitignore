@@ -2,4 +2,6 @@
 switch
 string
 misc
-structs 
+structs
+*.exe
+**/vivians group work 
